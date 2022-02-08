@@ -1,7 +1,7 @@
 ---
-title: About this Blog
+title: About me
 ---
 
 <!--more-->
 
-This is your About page
+Marius Vilholm
