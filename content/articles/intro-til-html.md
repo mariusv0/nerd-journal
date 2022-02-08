@@ -6,7 +6,7 @@ Hvis du gerne vil igang med web udvikling, så er HTML et rigtig godt sted at st
 
 HTML (Hyper Text Markup Language) er det markup sprog der sørger for at du kan vise forskellige elementer såsom tekst og billeder - og at der er en struktur i dem. HTML har ingen styling/design tilknyttet og vil i bund og grund ligne et Word dokument hvis ikke du bruger CSS til at ændre i stylingen.
 
-Lad os sige at du vil lave en knap og til tekst på din hjemmeside, så er der to elementer vi skal bruge fra HTML. 
+Lad os sige at du vil lave en knap og lidt tekst på din hjemmeside, så er der to elementer vi skal bruge fra HTML. 
 
 ```html{1,3-5}
 <button>
