@@ -19,8 +19,7 @@ Navnet siger lidt sig selv. Det er altså en knap du kan få til at gøre noget 
 
 Paragraph elementet bruges til længere tekster som brødtekster og beskrivelser.
 
-TIP: Hvis du vil springe til næste linje midt i et <p> element kan du bruge <br />
-
+TIP: Hvis du vil springe til næste linje midt i et p element kan du bruge ```<br />```
 #### Eksempel
 ```html{1,3-5}
 <button>Tryk på mig</button>
