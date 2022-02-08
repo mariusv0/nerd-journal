@@ -1,22 +1,42 @@
 <template>
   <section
-    class="sticky top-0 z-50 flex w-full flex-col items-start justify-start bg-white"
+    class="
+      sticky
+      top-0
+      z-50
+      flex
+      w-full
+      flex-col
+      items-start
+      justify-start
+      bg-white
+    "
   >
     <NuxtLink
       to="/"
-      class="flex h-28 w-full flex-col items-center justify-center md:w-auto md:flex-row md:justify-start md:space-x-4 md:px-4"
+      class="
+        flex
+        h-28
+        w-full
+        flex-col
+        items-center
+        justify-center
+        md:w-auto md:flex-row md:justify-start md:space-x-4 md:px-4
+      "
     >
-      <NuxtImg
-        format="webp"
-        src="/images/logo.png"
-        alt="Your alt"
-        width="200px"
-        height="70px"
-      />
       <p class="text-3xl font-black uppercase">{{ title }}</p>
     </NuxtLink>
     <div
-      class="flex h-24 w-full flex-col items-center justify-between border-b-2 border-t-2 border-gray-800 md:h-12 md:flex-row md:px-6"
+      class="
+        flex
+        h-24
+        w-full
+        flex-col
+        items-center
+        justify-between
+        border-b-2 border-t-2 border-gray-800
+        md:h-12 md:flex-row md:px-6
+      "
     >
       <div class="flex h-12 items-center space-x-6 font-bold uppercase">
         <NuxtLink
@@ -30,7 +50,15 @@
         </NuxtLink>
       </div>
       <div
-        class="relative flex h-full w-full items-center border-t-2 border-gray-800 md:w-1/3 md:border-t-0 md:border-l-2"
+        class="
+          relative
+          flex
+          h-full
+          w-full
+          items-center
+          border-t-2 border-gray-800
+          md:w-1/3 md:border-t-0 md:border-l-2
+        "
       >
         <input
           v-model="search"
