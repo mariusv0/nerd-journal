@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Your website',
+    title: 'Marius Vilholm',
     htmlAttrs: {
       lang: 'en',
     },
@@ -29,12 +29,12 @@ export default {
       },
       {
         hid: 'og:url',
-        content: 'https://yoururl.com/',
+        content: 'https://blog.mariusvilholm.dk',
         property: 'og:url',
       },
       {
         hid: 'og:image',
-        content: 'https://yoururl.com/images/ogbanner/default.jpg',
+        content: 'https://blog.mariusvilholm.dk/images/ogbanner/default.jpg',
         property: 'og:image',
       },
       {
@@ -47,7 +47,7 @@ export default {
   },
 
   env: {
-    BASE_URL: 'https://yoururl.com',
+    BASE_URL: 'https://blog.mariusvilholm.dk',
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css

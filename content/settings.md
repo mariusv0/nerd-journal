@@ -1,5 +1,5 @@
 ---
-title: Your website title
+title: Marius Vilholm
 menu: [{ name: Home, path: '/' }, { name: About, path: '/about' }]
-searchPlaceholder: Search something nerdy
+searchPlaceholder: Search something
 ---
