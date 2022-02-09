@@ -1,5 +1,5 @@
 ---
-title: Intro til HTML (Dansk)
+title: Intro til HTML
 slug: intro-til-html
 ---
 Hvis du gerne vil igang med web udvikling, så er HTML et rigtig godt sted at starte. Det er grundstenen i alle hjemmesider og det er vigtigt at have en hvis forståelse indenfor emnet, hvis du vil bygge hjemmesider.
